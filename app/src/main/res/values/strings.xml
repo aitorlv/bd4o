@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vinodb4o</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_modificar">Modificar</string>
+    <string name="action_borrar">Borrar</string>
+    <string name="action_insertar">Nueva Entrada</string>
+    <string name="nombre">Nombre del vino </string>
+    <string name="descri">Descripcion el vino </string>
+    <string name="precio">Precio </string>
+    <string name="info">Informacio del vino </string>
+    <string name="tinto">Tinto</string>
+    <string name="blanco">Blanco </string>
+    <string name="rosado">Rosado </string>
+    <string name="title_activity_modificar">Modificar</string>
+    <string name="title_activity_kkkk">kkkk</string>
+
+</resources>
